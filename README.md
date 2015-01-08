@@ -20,6 +20,5 @@ Para su funcionamiento es necesario instalar los siguientes programas:
 
 Todos estos complementos se pueden descargar desde: http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy
 
-Para instalar gdal correctamente bajo Windows se recomienda seguir el siguiente tutorial: http://cartometric.com/blog/2011/10/17/install-gdal-on-windows/ 
 
 
