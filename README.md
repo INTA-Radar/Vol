@@ -24,7 +24,9 @@ Instalación
 Todos estos complementos se pueden descargar desde: http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy
 
 2) Copiar la carpeta puntos en el lugar donde se quieren procesar los datos.
+
 3) Copiar y descomprimir template-grilla-TM-LIMPIA.zip
+
 4) Copiar los script de Python y los procesos por lotes (Windows o Linux de acuerdo a la plataforma a utilizar)
 
 Detalles instalación Windows: https://github.com/INTA-Radar/VolWin/blob/master/README.md
