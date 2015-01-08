@@ -23,6 +23,8 @@ Para su funcionamiento es necesario instalar los siguientes programas:
 
 Todos estos complementos se pueden descargar desde: http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy
 
+Detalles instalación Windows: https://github.com/INTA-Radar/VolWin/blob/master/README.md
+
 Uso
 ---
 
