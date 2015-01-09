@@ -33,9 +33,11 @@ Detalles instalación Windows: https://github.com/INTA-Radar/VolWin/blob/master/
 
 Uso
 ---
-
-- Linux: utilizar los procesos por lotes que se encuentran en: https://github.com/INTA-Radar/VolLinux
-- Windows: utilizar los procesos por lotes que se encuentran en: https://github.com/INTA-Radar/VolWin
+* Para descargar los archivos: ftpRadar.py
+* Para convertir a formato ASCII y GeoTIFF:
+   - Linux: utilizar los procesos por lotes que se encuentran en: https://github.com/INTA-Radar/VolLinux
+   - Windows: utilizar los procesos por lotes que se encuentran en: https://github.com/INTA-Radar/VolWin
+* Para obtener datos de las imágenes: ver https://github.com/INTA-Radar/ImgCompuestas/blob/master/README.md 
 
 Autores
 -------
